@@ -3,9 +3,11 @@
 
 <table>
   <tr>
-    Navigation Drawer and Bottom Navigationview
+    Navigation Drawer , Bottom Navigationview and Bottom Sheet
     <td><img src="https://github.com/ahmedelbagory332/Navigation-Component/blob/master/shots/Screenshot_20220415-112156_Navigation%20Component.jpg" width=270 height=480></td>
     <td><img src="https://github.com/ahmedelbagory332/Navigation-Component/blob/master/shots/Screenshot_20220415-112252_Navigation%20Component.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/ahmedelbagory332/Navigation-Component/blob/master/shots/Screenshot_20220415-115719_Navigation%20Component.jpg" width=270 height=480></td>
+  
   </tr>
  </table>
 
