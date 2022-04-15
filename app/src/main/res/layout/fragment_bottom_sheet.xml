@@ -5,15 +5,34 @@
     android:layout_height="match_parent"
     tools:context=".BottomSheet.BottomSheetFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:padding="50dp"
-        android:text="Bottom Sheet"
-        android:textColor="#673AB7"
-        android:textSize="34sp"
-        android:textStyle="bold" />
+        android:orientation="vertical">
 
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="option 1" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="option 2" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="option 3" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="option 4" />
+    </LinearLayout>
 </FrameLayout>

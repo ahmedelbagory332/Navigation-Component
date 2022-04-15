@@ -17,11 +17,10 @@
             android:name=".bottomnavigationview.MainActivity"
             android:exported="false" />
         <activity
-            android:name=".BottomSheet.MainActivity"
+            android:name=".ViewPager2.MainActivity"
             android:exported="false" />
         <activity
-            android:name=".ViewPager2.MainActivity"
-
+            android:name=".BottomSheet.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
